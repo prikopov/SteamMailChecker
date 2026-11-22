@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+*.exe
+*.zip
+*.sqlite3*
+accounts.json
+session.lock
+Letters/
+.env*
